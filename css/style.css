@@ -1,0 +1,22 @@
+.blue {
+    background-color: #006CFA;
+    height: 50px;
+}
+
+[class*="col-"] {
+    display: flex;
+    justify-content: center;
+    border: 1px solid white;
+    padding: 5px;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    background-color: #00E165;
+    color: white;
+    font-size: 15px;
+    padding: 5px;  
+}
