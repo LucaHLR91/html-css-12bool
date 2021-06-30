@@ -4,12 +4,13 @@ section.container {
 
 .blue {
     background-color: #006CFA;
-    height: 50px;
+    height: 67px;
 }
 
 [class*="col-"] {
     display: flex;
     justify-content: center;
+    align-items: center;
     border: 1px solid white;
     padding: 5px;
 }
